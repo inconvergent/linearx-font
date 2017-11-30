@@ -2,5 +2,15 @@
 
 Procedurally generated fonts. 
 
-See: http://inconvergent.net/mechanical-plotter-drawings/4/
+I might improve upon the generation. The first batch is not as good as I'd like. 
+
+Stay tuned for more. 
+
+For some more details, see: http://inconvergent.net/mechanical-plotter-drawings/4/
+
+## Batches
+
+ - [batch-20171130-01](batch-20171130-01)
+
+
 
