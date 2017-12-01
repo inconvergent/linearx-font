@@ -11,6 +11,7 @@ For some more details, see: http://inconvergent.net/mechanical-plotter-drawings/
 ## Batches
 
  - [batch-20171130-01](batch-20171130-01)
+ - [batch-20171201-01](batch-20171201-01)
 
 
 
